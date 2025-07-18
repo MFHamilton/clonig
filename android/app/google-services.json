@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207617388009",
+    "project_id": "igclone-009",
+    "storage_bucket": "igclone-009.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207617388009:android:5faa79efe0e73d87026f78",
+        "android_client_info": {
+          "package_name": "com.example.clonig"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcDlVMS_s73y1Adie3ZeLOS1Xw8kP63I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
